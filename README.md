@@ -1,6 +1,5 @@
 # ✨ Quolit - Random Quote Generator
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/06f2c6ab-cd8f-47e4-a264-69b9c67d55d1/deploy-status)](https://viewquotes2o.netlify.app/)
 
 **Quolit** is a sleek and responsive random quote generator built with **HTML**, **Tailwind CSS**, and **JavaScript**. At the click of a button, it displays an inspiring quote to boost motivation, spark creativity, or simply make you smile.
 
